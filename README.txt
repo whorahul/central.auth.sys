@@ -1,4 +1,4 @@
-Central.auth.sys
+central.auth.sys
     by Rahul Balamwar
     https://www.linkedin.com/in/whorahul
     https://www.hackerrank.com/whorahul
