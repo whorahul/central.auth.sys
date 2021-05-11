@@ -17,7 +17,7 @@ Stores
   #=> public.inspect
   >> rahul = public['rahul']
   #=> rahul hash
-  >> rahul['awesome'] = true
+  >> rahul['handsome'] = true
   #=> true
   >> rahul.save
   #=> rahul hash
