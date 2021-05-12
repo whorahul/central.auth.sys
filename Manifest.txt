@@ -9,7 +9,6 @@ lib/hive.rb
 lib/hive/base.rb
 lib/hive/cell.rb
 lib/hive/schema.rb
-log/debug.log
 test/test_helper.rb
 test/test_hive.rb
 vendor/grit/.DS_Store
