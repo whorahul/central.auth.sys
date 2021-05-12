@@ -4,6 +4,7 @@ Versioned database residing in distributed storage using SQL.
 ====
 by Rahul Balamwar
 https://linkedin.com/in/whorahul
+
 https://hackerrank.com/whorahul
 
 Hive was designed for centralized storage of user data orthogonal but related to the shove\_auth centralized
