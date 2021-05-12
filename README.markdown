@@ -3,7 +3,6 @@ central.auth.sys
 Versioned database residing in distributed storage using SQL.
 ====
 by Rahul Balamwar
-
 https://linkedin.com/in/whorahul
 https://hackerrank.com/whorahul
 
